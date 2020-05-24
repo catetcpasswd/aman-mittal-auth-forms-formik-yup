@@ -1,0 +1,17 @@
+{
+  "name": "rnNavigation",
+  "displayName": "rnNavigation",
+  "expo": {
+    "name": "rnNavigation",
+    "slug": "rnNavigation",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
